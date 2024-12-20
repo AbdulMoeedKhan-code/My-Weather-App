@@ -41,8 +41,7 @@ main form button {
     font-size: 20px;
 }
 main form input{
-    font-size: 20px;
-    
+    text-transform: capitalize;
 }
 
 #search{
