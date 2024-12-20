@@ -40,6 +40,7 @@ main form button {
     padding: 20px;
     font-size: 20px;
 }
+
 main form input{
     text-transform: capitalize;
 }
