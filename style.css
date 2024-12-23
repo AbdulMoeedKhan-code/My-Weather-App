@@ -112,6 +112,17 @@ main li:nth-child(3) {
 main.error {
     animation: errorEffect 0.3s linear 1;
 }
+
+.copy-right {
+    font-size: 18px;
+    text-align: center;
+    font-weight: 300;
+    margin-top: 3rem;
+    color: #3a4452;
+}
+.copy-right span{
+    color: cadetblue;
+}
  
 @keyframes  errorEffect {
     0% {
@@ -138,6 +149,9 @@ main.error {
     }
     main ul {
     grid-template-columns: repeat(1, 1fr);
+}
+    .copy-right {
+    font-size: 14px;
 }
 }
  
