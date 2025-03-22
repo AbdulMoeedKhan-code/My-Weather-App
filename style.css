@@ -123,7 +123,10 @@ main.error {
 .copy-right span{
     color: cadetblue;
 }
- 
+.description p{
+    text-transform: capitalize;
+}
+
 @keyframes  errorEffect {
     0% {
         transform: translate(10px, 5px);
